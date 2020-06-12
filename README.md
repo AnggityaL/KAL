@@ -1,2 +1,2 @@
 # KAL
-just a ordinary man who want to learn programing
+just anordinary man who want to learn programing
